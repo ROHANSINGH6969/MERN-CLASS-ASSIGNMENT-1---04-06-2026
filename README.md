@@ -38,10 +38,10 @@ Adjusts typography, form layout, and feature cards for better user experience.
 
 ## Technologies Used
 
-HTML5
-CSS3
-Flexbox
-Media Queries
+HTML5, 
+CSS3, 
+Flexbox, 
+Media Queries, 
 Bootstrap Icons CDN
 
 ## Learning Outcomes
